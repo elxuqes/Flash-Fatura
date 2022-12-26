@@ -1,0 +1,16 @@
+FLASH FATURA KULLANICI SÖZLEŞMESİ
+
+1. Yazılımın yapımcısı, tasarımcısı, dağıtıcısı ve telif hakkı sahibi Berkay ÇOLAK'tır.
+2. Yazılım tam sürüm olarak gelmektedir, herhangi bir lisans etkinleştirme eylemi gerektirmez.
+3. Yazılım, içeriklerin değiştirilmemesi kaydıyla ücretsiz olarak dağıtılabilir.
+4. Programdan kaynaklanan herhangi bir sorunda telif hakkı sahibi sorumlu değildir.
+(Veri kaybı, olası herhangi bir hasar veya diğer türlü kayıplar)
+5. Flash Fatura'nın dosyaları değiştirilmemiş, sade ve saf olmalıdır. Flash Fatura'nın 
+herhangi bir pakete dahil edilmesi yasaktır.
+6. Flash Fatura'da kullanıcının aleyhine olacak eylemler yapılmamaktadır. Kullanıcının 
+aleyhine yaşanan durumlarda dağıtıcı sorumlu değildir.
+7. Flash Fatura hiçbir kullanıcıdan herhangi bir bilgi istemez (kredi kartı bilgileri, kişisel bilgiler vs.).
+8. Kullanıcı, programda yaşanan olağanüstü bir durumda 
+"berkaycolak000@outlook.com" adresine gerekli bilgilerle destek talebi gönderebilir.
+9. Seçilen kurumun sitesine yönlendirme aşamasında websitesine ulaşılmaması durumunun
+programla uzaktan yakından alakası yoktur.

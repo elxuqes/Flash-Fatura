@@ -1,0 +1,101 @@
+C:\Users\Berkay\Documents\Visual Studio 2010\Projects\FlashFatura\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Berkay\Documents\Visual Studio 2010\Projects\FlashFatura\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Berkay\Documents\Visual Studio 2010\Projects\FlashFatura\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Berkay\Documents\Visual Studio 2010\Projects\FlashFatura\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\Berkay\Documents\Visual Studio 2010\Projects\FlashFatura\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\Berkay\Documents\Visual Studio 2010\Projects\FlashFatura\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form4.resources
+C:\Users\Berkay\Documents\Visual Studio 2010\Projects\FlashFatura\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form5.resources
+C:\Users\Berkay\Documents\Visual Studio 2010\Projects\FlashFatura\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form6.resources
+C:\Users\Berkay\Documents\Visual Studio 2010\Projects\FlashFatura\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Berkay\Documents\Visual Studio 2010\Projects\FlashFatura\WindowsFormsApplication3\obj\x86\Debug\Flash Fatura.csproj.GenerateResource.Cache
+C:\Users\Berkay\Documents\Visual Studio 2010\Projects\FlashFatura\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Berkay\Documents\Visual Studio 2010\Projects\FlashFatura\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Berkay\Documents\Visual Studio 2010\Projects\FlashFatura\WindowsFormsApplications3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Berkay\Documents\Visual Studio 2010\Projects\FlashFatura\WindowsFormsApplications3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Berkay\Desktop\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash Fatura.csprojResolveAssemblyReference.cache
+C:\Users\Berkay\Desktop\Flash_Fatura\Flash Fatura\obj\x86\Debug\FlashFatura.Form1.resources
+C:\Users\Berkay\Desktop\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash Fatura.csproj.GenerateResource.Cache
+C:\Users\Berkay\Desktop\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form2.resources
+C:\Users\Berkay\Desktop\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form3.resources
+C:\Users\Berkay\Desktop\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form4.resources
+C:\Users\Berkay\Desktop\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form5.resources
+C:\Users\Berkay\Desktop\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form6.resources
+C:\Users\Berkay\Desktop\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash_Fatura.Properties.Resources.resources
+C:\Users\Berkay\Desktop\Flash_Fatura\Flash Fatura\bin\Debug\Flash Fatura.exe
+C:\Users\Berkay\Desktop\Flash_Fatura\Flash Fatura\bin\Debug\Flash Fatura.pdb
+C:\Users\Berkay\Desktop\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash Fatura.exe
+C:\Users\Berkay\Desktop\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash Fatura.pdb
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash Fatura.exe
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash Fatura.pdb
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash Fatura\bin\Debug\Flash Fatura.exe.manifest
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash Fatura\bin\Debug\Flash Fatura.application
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash Fatura\bin\Debug\Flash Fatura.exe
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash Fatura\bin\Debug\Flash Fatura.pdb
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash Fatura.csprojResolveAssemblyReference.cache
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash Fatura\obj\x86\Debug\FlashFatura.Form1.resources
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form2.resources
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form3.resources
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form4.resources
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form5.resources
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form6.resources
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash_Fatura.Properties.Resources.resources
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash Fatura.csproj.GenerateResource.Cache
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash Fatura.TrustInfo.xml
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash Fatura.exe.manifest
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash Fatura.application
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash Fatura.exe
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash Fatura.pdb
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash_Fatura\Flash Fatura\bin\Debug\Flash Fatura.exe.manifest
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash_Fatura\Flash Fatura\bin\Debug\Flash Fatura.application
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash_Fatura\Flash Fatura\bin\Debug\Flash Fatura.exe
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash_Fatura\Flash Fatura\bin\Debug\Flash Fatura.pdb
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash Fatura.csprojResolveAssemblyReference.cache
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash_Fatura\Flash Fatura\obj\x86\Debug\FlashFatura.Form1.resources
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form2.resources
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form3.resources
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form4.resources
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form5.resources
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form6.resources
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash_Fatura.Properties.Resources.resources
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash Fatura.csproj.GenerateResource.Cache
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash Fatura.TrustInfo.xml
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash Fatura.exe.manifest
+C:\Users\Berkay\Desktop\Masaüstü\Flash_Fatura\Flash_Fatura\Flash Fatura\obj\x86\Debug\Flash Fatura.application
+C:\Users\Berkay\Desktop\Masaüstü\tr-TR (Code)\Flash Fatura\obj\x86\Debug\Flash Fatura.exe
+C:\Users\Berkay\Desktop\Masaüstü\tr-TR (Code)\Flash Fatura\obj\x86\Debug\Flash Fatura.pdb
+C:\Users\Berkay\Desktop\Masaüstü\tr-TR (Code)\Flash Fatura\bin\Debug\Flash Fatura.exe.manifest
+C:\Users\Berkay\Desktop\Masaüstü\tr-TR (Code)\Flash Fatura\bin\Debug\Flash Fatura.application
+C:\Users\Berkay\Desktop\Masaüstü\tr-TR (Code)\Flash Fatura\bin\Debug\Flash Fatura.exe
+C:\Users\Berkay\Desktop\Masaüstü\tr-TR (Code)\Flash Fatura\bin\Debug\Flash Fatura.pdb
+C:\Users\Berkay\Desktop\Masaüstü\tr-TR (Code)\Flash Fatura\obj\x86\Debug\Flash Fatura.csprojResolveAssemblyReference.cache
+C:\Users\Berkay\Desktop\Masaüstü\tr-TR (Code)\Flash Fatura\obj\x86\Debug\FlashFatura.Form1.resources
+C:\Users\Berkay\Desktop\Masaüstü\tr-TR (Code)\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form2.resources
+C:\Users\Berkay\Desktop\Masaüstü\tr-TR (Code)\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form3.resources
+C:\Users\Berkay\Desktop\Masaüstü\tr-TR (Code)\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form4.resources
+C:\Users\Berkay\Desktop\Masaüstü\tr-TR (Code)\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form5.resources
+C:\Users\Berkay\Desktop\Masaüstü\tr-TR (Code)\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form6.resources
+C:\Users\Berkay\Desktop\Masaüstü\tr-TR (Code)\Flash Fatura\obj\x86\Debug\Flash_Fatura.Properties.Resources.resources
+C:\Users\Berkay\Desktop\Masaüstü\tr-TR (Code)\Flash Fatura\obj\x86\Debug\Flash Fatura.csproj.GenerateResource.Cache
+C:\Users\Berkay\Desktop\Masaüstü\tr-TR (Code)\Flash Fatura\obj\x86\Debug\Flash Fatura.TrustInfo.xml
+C:\Users\Berkay\Desktop\Masaüstü\tr-TR (Code)\Flash Fatura\obj\x86\Debug\Flash Fatura.exe.manifest
+C:\Users\Berkay\Desktop\Masaüstü\tr-TR (Code)\Flash Fatura\obj\x86\Debug\Flash Fatura.application
+C:\Users\Berkay\Desktop\Masaüstü\FlashFatura\Flash Fatura\obj\x86\Debug\Flash Fatura.exe
+C:\Users\Berkay\Desktop\Masaüstü\FlashFatura\Flash Fatura\obj\x86\Debug\Flash Fatura.pdb
+C:\Users\Berkay\Desktop\Masaüstü\FlashFatura\Flash Fatura\obj\x86\Debug\Flash Fatura.csprojResolveAssemblyReference.cache
+C:\Users\Berkay\Desktop\Masaüstü\FlashFatura\Flash Fatura\obj\x86\Debug\FlashFatura.Form1.resources
+C:\Users\Berkay\Desktop\Masaüstü\FlashFatura\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form2.resources
+C:\Users\Berkay\Desktop\Masaüstü\FlashFatura\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form3.resources
+C:\Users\Berkay\Desktop\Masaüstü\FlashFatura\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form4.resources
+C:\Users\Berkay\Desktop\Masaüstü\FlashFatura\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form5.resources
+C:\Users\Berkay\Desktop\Masaüstü\FlashFatura\Flash Fatura\obj\x86\Debug\Flash_Fatura.Form6.resources
+C:\Users\Berkay\Desktop\Masaüstü\FlashFatura\Flash Fatura\obj\x86\Debug\Flash_Fatura.Properties.Resources.resources
+C:\Users\Berkay\Desktop\Masaüstü\FlashFatura\Flash Fatura\obj\x86\Debug\Flash Fatura.csproj.GenerateResource.Cache
+C:\Users\Berkay\Desktop\Masaüstü\FlashFatura\Flash Fatura\bin\Debug\Flash Fatura.exe.manifest
+C:\Users\Berkay\Desktop\Masaüstü\FlashFatura\Flash Fatura\bin\Debug\Flash Fatura.application
+C:\Users\Berkay\Desktop\Masaüstü\FlashFatura\Flash Fatura\bin\Debug\Flash Fatura.exe
+C:\Users\Berkay\Desktop\Masaüstü\FlashFatura\Flash Fatura\bin\Debug\Flash Fatura.pdb
+C:\Users\Berkay\Desktop\Masaüstü\FlashFatura\Flash Fatura\obj\x86\Debug\Flash Fatura.TrustInfo.xml
+C:\Users\Berkay\Desktop\Masaüstü\FlashFatura\Flash Fatura\obj\x86\Debug\Flash Fatura.exe.manifest
+C:\Users\Berkay\Desktop\Masaüstü\FlashFatura\Flash Fatura\obj\x86\Debug\Flash Fatura.application
+C:\Users\Berkay\Desktop\FlashFatura\Flash Fatura\obj\x86\Debug\Flash Fatura.exe
+C:\Users\Berkay\Desktop\FlashFatura\Flash Fatura\obj\x86\Debug\Flash Fatura.pdb
